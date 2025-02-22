@@ -17,4 +17,4 @@ class Solution {
        }
        return !dp.get(stones[n-1]).isEmpty();
     }
-}
+}.
